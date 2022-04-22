@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="aula-FactoryMethod" />
+        <module name="Padrao-Factory-Method" />
       </profile>
     </annotationProcessing>
   </component>
